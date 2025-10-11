@@ -45,5 +45,5 @@ jobs:
           # Connect to Semgrep AppSec Platform through your SEMGREP_APP_TOKEN.
           # Generate a token from Semgrep AppSec Platform > Settings
           # and add it to your GitHub secrets.
-          SEMGREP_APP_TOKEN: "4e4485e73a07808f2af8a5546e85fc29bed3d0ce4b21b8b6dd77ace1950bc3f8"
+          SEMGREP_APP_TOKEN: "7d7cbc6b05c0b82918ab75314b5a906c47205e26dacd21d625b4b94cadf50fca"
 # test comment
